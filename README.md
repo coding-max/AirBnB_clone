@@ -108,5 +108,4 @@ $
 
 ## Authors
 
-- [Maximiliano Pan](https://www.linkedin.com/in/maximilianopan/)  
-- [Agustín Otegui]()  
+[Maximiliano Pan](https://www.linkedin.com/in/maximilianopan/) & [Agustín Otegui](https://www.linkedin.com/in/agustin-otegui-04846b206/)  
